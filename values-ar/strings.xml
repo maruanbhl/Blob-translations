@@ -3,39 +3,39 @@
     <string name="locale">ar</string>
     <string name="cancel">إلغاء </string>
     <string name="error">خطأ</string>
-    <string name="no_internet">هذه اللعبة تحتاج إلى اتصالإنترنت</string>
-    <string name="show_minimap">إظهار مصغرة</string>
-    <string name="show_chat">إظهار المحادثة</string>
-    <string name="show_advanced_minimap">مصغرة متقدمة</string>
-    <string name="region">المنطقة:</string>
+    <string name="no_internet">لا يوجد أنترنت</string>
+    <string name="show_minimap">إظهار خريطة مصغرة</string>
+    <string name="show_chat">إظهار الدردشة</string>
+    <string name="show_advanced_minimap">إضهار الخريطة المصغرة المتطورة</string>
+    <string name="region">المنطقة</string>
     <string name="show_grid">إظهار الشبكة</string>
-    <string name="show_mass">إظهار الشامل</string>
+    <string name="show_mass">إظهار الأطعمة</string>
     <string name="show_names">إظهار الأسماء</string>
-    <string name="name">الاسم</string>
+    <string name="name">الإسم</string>
 
-    <string name="default_name">مايك</string>
-    <string name="play">اللعب</string>
-    <string name="nick_name">الاسم المستعار</string>
-    <string name="exit_dialog">ما الذي تريده؟</string>
+    <string name="default_name">لا تأكلني</string>
+    <string name="play">إلعب</string>
+    <string name="nick_name">الإسم</string>
+    <string name="exit_dialog">ماذا تريد أن تفعل؟</string>
     <string name="exit">خروج</string>
-    <string name="restart">قم بإعادةتشغيل</string>
-    <string name="show_leaders">إظهار القادة</string>
-    <string name="show_skins">إظهار جلود</string>
-    <string name="show_DirectionPointer">مؤشر الاتجاه</string>
+    <string name="restart">إعادة التشغيل</string>
+    <string name="show_leaders">إظهار الترتيب</string>
+    <string name="show_skins">إظهار المظاهر</string>
+    <string name="show_DirectionPointer">إظهار مؤشر الإتجاه</string>
     <string name="show_joystick">عصا التحكم</string>
     <string name="save_button">حفظ</string>
-    <string name="settings">إعدادات</string>
-    <string name="skins_list">جلود</string>
-    <string name="skin_message">سيؤدي ذلك إلى تغيير الاسم المستعار الخاص بك</string>
-    <string name="skin_title">تعيين اسملهذا الجلد؟</string>
-    <string name="connect_to">الاتصال</string>
-    <string name="connecting">الاتصالالخاصة IP</string>
-    <string name="enter_ip">نوع خادم إب</string>
-    <string name="copied">نسخ</string>
-    <string name="connection_closed">اتصال مغلقة منقبل الملقم</string>
-    <string name="connection_lost">فقد الاتصال</string>
-    <string name="cant_connect">Can \' ر الاتصال بالخادم. الرجاءالمحاولة مرة أخرى</string>
-    <string name="about_title">حول</string>
+    <string name="settings">الإعدادات</string>
+    <string name="skins_list">المظاهر</string>
+    <string name="skin_message">سيؤدي هذا إلى تغيير الإسم الخاص بك</string>
+    <string name="skin_title">تعيين اسم لهذا المظهر</string>
+    <string name="connect_to">الإتصال</string>
+    <string name="connecting">جاري الإتصال</string>
+    <string name="enter_ip">IPأدخل ال</string>
+    <string name="copied">تم النسخ</string>
+    <string name="connection_closed">تم إغلاق الإتصال</string>
+    <string name="connection_lost">فقد الإتصال</string>
+    <string name="cant_connect">لا يمكن الإتصال</string>
+    <string name="about_title">بشأن</string>
     <string name="about_text">&#032;&#032;النقطة الروبوتالعميل %1$s \n\n
 
         &#032;هذا التطبيق أجاريو مثل ساخرة.\n
@@ -44,24 +44,24 @@
 
     </string>
 
-    <string name="check_update">تحقق منتحديث</string>
-    <string name="score_result">النقاط الخاصبك %1$s النقاط</string>
-    <string name="you_set_new_record">يمكنك تعيينوضع هذه اللعبة!</string>
-    <string name="share">حصة</string>
+    <string name="check_update">تحقق من وجود تحديث</string>
+    <string name="score_result">النقاط الخاصة بك %1$s النقاط</string>
+    <string name="you_set_new_record">!لقد قمت بفعل رقم قياسي جديد</string>
+    <string name="share">المشاركة</string>
     <string name="share_text">كنت أعتقد كنت هزيمة لي فيالنقطة؟ ها، أنها محاولة :) #blob_game %1$s</string>
     <string name="share_score_text">حصلت %1$d نقاط في لعبة Blob! العب معي! #blob_game %2$s</string>
     <string name="records">السجلات</string>
-    <string name="spec_mode_after_death"> بعد سبكتات الموت</string>
-    <string name="darkTheme">موضوع الظلام</string>
-    <string name="left_hand_control">تحكم اليداليسرى</string>
+    <string name="spec_mode_after_death">وضع المشاهدة بعد الموت</string>
+    <string name="darkTheme">شكل مظلم</string>
+    <string name="left_hand_control">تحكم اليد اليسرى</string>
     <!--<string name="party_btn">الطرف</string>-->
     <!--<string name="create_party">إنشاء</string>-->
-    <!--<string name="wrong_token">رمز مميز غيرصحيح</string>-->
-    <!--<string name="token_not_found">لم يتم العثور على رمز مميز</string>-->
-    <string name="party_created">إعطاء هذا الرابطلأصدقائك:</string>
-    <string name="joining">الانضمام إلى...</string>
-    <string name="creating_party">إنشاء حزب...</string>
-    <string name="vibration">يهتز</string>
+    <!--<string name="wrong_token">رمز خطأ</string>-->
+    <!--<string name="token_not_found">لم يتم العثور على الرمز</string>-->
+    <string name="party_created">لقد تم الإنشاء</string>
+    <string name="joining">...جاري الإنضمام</string>
+    <string name="creating_party">...جاري الإنشاء</string>
+    <string name="vibration">الإهتزاز</string>
     <string name="game_mechanic_description">
         &#160;&#160;- كلما كنت تباطؤ\n
         &#160;- انقر على الزر المناسب لتقسيم النقط أصغر اثنين. نصف واحدمنكم يطلق النار على إلىالأمام بسرعة، واستخدام هذه الحيلة لضرب لاعبين آخرين، وتناول الطعام لهم.\n
