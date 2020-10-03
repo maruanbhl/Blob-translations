@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="locale">ar</string>
-    <string name="cancel">إلغاء الأمر</string>
+    <string name="cancel">إلغاء </string>
     <string name="error">خطأ</string>
     <string name="no_internet">هذه اللعبة تحتاج إلى اتصالإنترنت</string>
     <string name="show_minimap">إظهار مصغرة</string>
