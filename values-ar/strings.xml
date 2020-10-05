@@ -307,42 +307,38 @@
     </string>
     <string name="guide_select_region">اختر أقرب منطقة</string>
     
-    <string name="skins_yt_desc">
-يمكنك تسجيل وتحميل لعبتك على YouTube لتصبح شائعة والحصول على YT داخل اللعبة.
-ستتم إضافة مظهرك إلى هذه القائمة ، بحيث يستخدمها المستخدمون!
-قراءة المتطلبات الفعلية لعلامة YT في الفتنة.
-    </string>
+    <string name="skins_yt_desc">!يمكنك تسجيل لعبك و مشاركته في يوتيوب لكي تصبح مشهورا، و لكي تحصل على مظهر خاص بك داخل اللعبة يمكن ادلأي لاعب أن يستعمله</string>
     <string name="skins_prem_desc">.يمكنك استعمال أي اسم مع مظاهر المستويات و الحصرية على عكس المظاهر المجانية</string>
     <string name="skins_free_desc">.لا يمكن لك استخدام اسمك مع هذا المظهر</string>
     <string name="revenge">!انتقام</string>
     <string name="kill_streak">قتل متتالي</string>
-    <string name="killed_you">%s !قتلتك</string>
+    <string name="killed_you">!%s قتلك</string>
     <string name="servers_list_desc">(يمكنك اختيار سرفر فارغ للعب بمفردك أو مع أصدقائك للتدرب، أو اختيار أنواع لعب مختلفة)</string>
     <string name="custom_server_desc">.هنا يمكنك إنشاء سرفر خاص بك مع إعداداتك الخاصة و اللعب مع أصدقائك</string>
     <string name="ts2v2_desc">.هنا يمكنك اللعب في فرق المعركة 2 ضد 2. يمكنك المراهنة بالنقود و / أو إنشاء معركة باستخدام مفتاح يشارك فيه فقط أصدقائك</string>
     <string name="you_won">!لقد فزت باللعبة</string>
-    <string name="someone_won">%s !شخص ما ربح اللعبة</string>
+    <string name="someone_won">!فاز باللعبة %s</string>
     <string name="direction_lines">خطوط الاتجاه</string>
     <string name="score_result_best">أفضل نتيجة</string>
     <string name="daily_quests">مهام يومية</string>
-    <string name="reset_in">(إعادة التعيين %s)</string>
+    <string name="reset_in">(%s إعادة في)</string>
     <string name="q_replace_desc">.يمكنك استبدال مهمة كل مرة في اليوم</string>
     <string name="replace">استبدال</string>
     <string name="q_choose_replace">.اختيار المهام التي تريد استبدالها</string>
-    <string name="q_replace_x">استبدال المهمة %s ?</string>
+    <string name="q_replace_x">؟ $s استبدال المهمة </string>
     <string name="q_replaced">!تم استبدال المهمة</string>
     <string name="Completed">منجز</string>
     <string name="get_reward">الحصول على مكافأة</string>
     <string name="daily_reward">مكافآت يومية</string>
     <string name="gain_exp_and_get_reward_every_day">اربح إكس بي لربح مكافآت يومية</string>
-    <string name="day">يوم %d</string>
-    <string name="up_to">أعلى ال %d</string>
+    <string name="day">%d اليوم</string>
+    <string name="up_to">%d أعلى إلى</string>
     <string name="login_to_avoid_captcha">تسجيل الدخول لتجنب هذا الاختيار</string>
     <string name="replays">الإعادات</string>
     <string name="you_have_no_replays">ليس لديك إعادات</string>
     <string name="save_replay">حفظ الإعادة</string>
-    <string name="replay_saved">تم حفظ الإعادة</string>
-    <string name="old_replay_warning">.يمكن لإعادات من إصدارات قديمة للعبة عدم العمل بطريقة جيدة</string>
+    <string name="replay_saved">!تم حفظ الإعادة</string>
+    <string name="old_replay_warning">!يمكن لإعادات من إصدارات قديمة للعبة عدم العمل بطريقة جيدة</string>
     <string name="too_new_replay_error">!يجب عليك تحميل الإصدار الجديد لفتح هذه الإعادة</string>
     <string name="mute">كتم الصوت</string>
     <string name="buttons_position">مكان الأزرار</string>
