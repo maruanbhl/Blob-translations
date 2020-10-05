@@ -145,88 +145,88 @@
     <string name="better_skins_warning">.استخدم هذا الإعداد إذا كنت ترى بكسلز في المظاهر</string>
 
 
-    <string name="stop_on_release">التوقف عن إطلاق سراح</string>
-    <string name="type_user_id">اكتب معرف المستخدم</string>
-    <string name="copy_user_id">معرف النسخ</string>
-    <string name="send_friend_request">دعا</string>
-    <string name="friend_request_successful">طلب صديق إرسال ناجحة</string>
-    <string name="added_new_friend">وأضاف صديق جديد</string>
-    <string name="moved_to_declined">انتقل إلى رفض</string>
+    <string name="stop_on_release">التوقف عند الإطلاق</string>
+    <string name="type_user_id">IDاكتب ال</string>
+    <string name="copy_user_id">IDنسخ ال</string>
+    <string name="send_friend_request">إرسال طلب صداقة</string>
+    <string name="friend_request_successful">طلب الصداقة تم بنجاح</string>
+    <string name="added_new_friend">تم إضافة صديق</string>
+    <string name="moved_to_declined">نقل إلى لائحة المرفوضين</string>
     <string name="show_friends">إظهار الأصدقاء</string>
-    <string name="watch">مشاهدة</string>
-    <string name="unknown_user">مستخدم غير معروف</string>
-    <string name="reset">إعادة تعيين</string>
+    <string name="watch">المشاهدة</string>
+    <string name="unknown_user">غير معروف</string>
+    <string name="reset">إعادة التعيين</string>
 
     <!-- More settings -->
-    <string name="more">أكثر من</string>
-    <string name="controls_opacity">يتحكم في التعتيم</string>
+    <string name="more">المزيد</string>
+    <string name="controls_opacity">التحكم في التعتيم</string>
     <string name="chat_text_size">حجم نص الدردشة</string>
-    <string name="camera_zoom">كاميرا التصغير</string>
-    <string name="live_score">النتيجة الحية</string>
+    <string name="camera_zoom">كاميرا التصغير/التكبير</string>
+    <string name="live_score">النتيجة</string>
 
     <!-- Joystick settings-->
-    <string name="margins">هوامش</string>
-    <string name="size">بحجم</string>
-    <string name="old_type">نوع قديم</string>
+    <string name="margins">الهوامش</string>
+    <string name="size">الحجم</string>
+    <string name="old_type">الشكل القديم</string>
 
-    <string name="coins">عملات معدنية</string>
+    <string name="coins">النقود</string>
 
     <string name="empty">فارغة</string>
-    <string name="you_dont_have_friends">لم يكن لديك أصدقاء حتى الآن :(</string>
-    <string name="bought_succeed">لقد اشتريت%s ناجحة</string>
+    <string name="you_dont_have_friends">:( ليس لديك أي صديق</string>
+    <string name="bought_succeed">!تم الإشتراء بنجاح</string>
 
     <!-- API ERROR MESSAGES -->
-    <string name="user_not_found">لم يتم العثور على المستخدم الذي لديه مثل هذا الرقم التعريفي</string>
-    <string name="request_already_sent_error">تم إرسال طلب صديق من قبل</string>
+    <string name="user_not_found">لم يتم العثور على اللاعب</string>
+    <string name="request_already_sent_error">تم إرسال طلب صداقة من قبل</string>
     <string name="already_friend_error">هذا المستخدم هو بالفعل صديقك</string>
-    <string name="not_enough_coins">ليس لديك ما يكفي من القطع النقدية لهذا البند</string>
+    <string name="not_enough_coins">ليس لديك ما يكفي من النقود</string>
     <string name="already_own_item">أنت بالفعل تمتلك هذا العنصر</string>
 
-    <string name="searching_ad_video">جار البحث عن فيديو، يرجى الانتظار</string>
-    <string name="processing">معالجة...</string>
-    <string name="free_coins_toast">كنت حصلت على %d النقود مجانا!</string>
-    <string name="free_coins">عملات مجانية</string>
-    <string name="watch_video">شاهد الفيديو</string>
-    <string name="lvl_coins_reward">تهانينا! لقد حققت لفل %1$d واكتسبت %2$d عملات!</string>
+    <string name="searching_ad_video">...جاري البحث عن فيديو</string>
+    <string name="processing">...جاري المعالجة</string>
+    <string name="free_coins_toast">!لقد حصلت على نقود مجانية</string>
+    <string name="free_coins">نقود مجانية</string>
+    <string name="watch_video">مشاهدة الفيديو</string>
+    <string name="lvl_coins_reward">!لقد تقدمت بمستوى، تهانينا</string>
 
     <!-- Items description localization -->
-    <string name="mass_booster_x1_5_desc">بدء اللعبة مع كتلة أكبر x1.5 لمدة 1 ساعة القادمة</string>
-    <string name="mass_booster_x2_desc">بدء اللعبة مع كتلة مزدوجة لمدة 1 ساعة القادمة</string>
-    <string name="exp_booster_x1_5_desc">كل كسب المكتسبة مضروبا في 1.5 لمدة 1 ساعة القادمة</string>
-    <string name="exp_booster_x2_desc">كل كسب المكتسبة مضروبا في 2 لمدة 1 ساعة القادمة</string>
-    <string name="watch_video_desc">مشاهدة الفيديو والحصول على%d النقود!</string>
+    <string name="mass_booster_x1_5_desc">لمدة الساعة القادمة ستبدأ اللعبة بحجم أكبر ب1.5 مرة</string>
+    <string name="mass_booster_x2_desc">لمدة الساعة القادمة ستبدأ اللعبة بحجم أكبر بمرتين</string>
+    <string name="exp_booster_x1_5_desc">كل الإكس بي المكتسب سيضرب في 1.5 لمدة الساعة القادمة</string>
+    <string name="exp_booster_x2_desc">كل الإكس بي المكتسب سيضرب في 2 لمدة الساعة القادمة</string>
+    <string name="watch_video_desc">!قم بمشاهدة الفيديو و احصل على نقود</string>
     <string name="free_coins_desc">احصل على %1$s من النقود مجانا ك %2$d ساعة</string>
     <string name="m">m</string>
     <string name="h">h</string>
     <string name="d">d</string>
-    <string name="mass_booster_has_expired">انتهت معززة الشامل</string>
-    <string name="exp_booster_has_expired">انتهت صلاحية معززة إكس</string>
+    <string name="mass_booster_has_expired">انتهت صلاحية بوستر الحجم</string>
+    <string name="exp_booster_has_expired">انتهت صلاحية بوستر الإكس بي</string>
     <string name="chat_suffix_desc">إضافة إلى نيك %s لاحقة</string>
     <string name="user_role_desc">هذا اللاعب %s</string>
     <string name="size_animation_speed">حجم سرعة الحركة</string>
     <string name="search">البحث</string>
-    <string name="type_skin_name">اكتب اسم السكن</string>
-    <string name="waiting_for_players">جاري انتظار اللاعبين</string>
+    <string name="type_skin_name">اكتب اسم المظهر</string>
+    <string name="waiting_for_players">...جاري انتظار اللاعبين</string>
     <string name="type_room_key">أكتب اسم الغرفة</string>
 
-    <string name="random">مجهول</string>
-    <string name="key">مفتاح</string>
+    <string name="random">عشوائي</string>
+    <string name="key">المفتاح</string>
     <string name="left_label">(%s left)</string>
-    <string name="coins_battle">"عملات معركة "</string>
-    <string name="spectate_title">Spectate</string>
-    <string name="game_isnt_started_yet">لم تبدأ اللعبة بعد. قد تفقد القطع النقدية الخاصة بك!</string>
+    <string name="coins_battle">"نقود معركة "</string>
+    <string name="spectate_title">المشاهدة</string>
+    <string name="game_isnt_started_yet">.لم تبدأ اللعبة بعد</string>
     <string name="show_cell_border">إظهار حدود الخلية</string>
-    <string name="cur_week_exp">لئيم. أسبوع إكس</string>
-    <string name="prev_week_exp">لئيم. أسبوع إكس</string>
-    <string name="rules_title">قواعد</string>
+    <string name="cur_week_exp">إكس بي هذا الأسبوع</string>
+    <string name="prev_week_exp">إكس بي الأسبوع الماضي</string>
+    <string name="rules_title">القواعد</string>
     <string name="rules_description">
-        1.) لا إهانة لاعبين آخرين.\n
-        2.) لا تدعي أن يكون مشرف.\n
-        3.) لا تبادل حسابات بلوبيو خارج أو داخل اللعبة.\n
-        4.) لا تغش للوصول إلى أعلى تصنيف لاعب من اللعبة.\n
-        5.) لا تستخدم أسماء غير لائقة في اللعبة.\n
-        6.) لا تستفيد من فشل النظام في اللعبة.\n
-        7.) لا فريق مع شخص على عكس الفريق. (كروس تيمينغ)\n
+        1.) .لا تقم بإهانة اللاعبين الآخرين\n
+        2.) .لا تدعي على أنك مشرف في اللعبة\n
+        3.) .لا تتبادل معلومات حسابات بلوب داخل أو خارج اللعبة\n
+        4.) .لا تغش للوصول إلى أعلى تصنيف في اللعبة\n
+        5.) .لا تستخدم أسماء غير لائقة في اللعبة\n
+        6.) .لا تستفيد من خطأ أو عطب في اللعبة\n
+        7.) .لا تلعب مع شخص في فريق من غير فريقك\n
     </string>
     <string name="top_week_exp_desc">الحصول على أكبر قدر كما يمكنك خلال الأسبوع والفوز النقود مكافأة!</string>
     <string name="server_app_description">مع هذا التطبيق يمكنك إنشاء الخادم الخاص واللعب حاليا أو مع الأصدقاء!</string>
