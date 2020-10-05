@@ -275,85 +275,84 @@
     <string name="account">الحساب</string>
     <string name="dialog_vip_desc_title2">!VIPتعبت من الإعلانات؟ اشتري ال</string>
     <string name="no_ads">لا توجد إعلانات</string>
-    <string name="dialog_vip_desc_free_hours">العملات المجانيه ساعة</string>
-    <string name="dialog_vip_desc_ingame_coins"> العملات في اللعبة</string>
+    <string name="dialog_vip_desc_free_hours">نقود مجانية كل ساعة</string>
+    <string name="dialog_vip_desc_ingame_coins">نقود في اللعبة</string>
     <string name="dialog_vip_desc_additional_exp"> زيادة إضافية</string>
-    <string name="dialog_vip_desc_start_mass"> بدايه للكتلة</string>
-    <string name="dialog_vip_desc_discount">خصم على الدعاءم</string>
-    <string name="dialog_vip_desc_chat_label">علامة في الشات</string>
-    <string name="dialog_vip_desc_border">قوس قزح الحدود</string>
-    <string name="dialog_vip_desc_lock_name">الاسم الذهبي</string>
-    <string name="side">جانب:</string>
-    <string name="bottom">الأسفل:</string>
+    <string name="dialog_vip_desc_start_mass">حجم البداية</string>
+    <string name="dialog_vip_desc_discount">خصم على المشتريات</string>
+    <string name="dialog_vip_desc_chat_label">في الدردشة VIP علامة</string>
+    <string name="dialog_vip_desc_border">قوس قزح في حدود الخلية</string>
+    <string name="dialog_vip_desc_lock_name">اسم ذهبي</string>
+    <string name="side">:الجانب</string>
+    <string name="bottom">:الأسفل</string>
     <string name="chat_m_hide_show">إخفاء / عرض</string>
     <string name="chat_m_expand_collapse">توسيع الانهيار</string>
-    <string name="chat_m_invite_friend">ادعو صديق</string>
+    <string name="chat_m_invite_friend">دعوة صديق</string>
     <string name="chat_m_big_map">خريطة كبيرة</string>
     <string name="chat_m_suicide">انتحار</string>
-    <string name="chat_m_select_message">اختر رسالة في الدردشة!</string>
+    <string name="chat_m_select_message">!اختر رسالة في الدردشة</string>
 
     <string name="help">مساعدة</string>
-    <string name="web_ver_desc">لدينا نسخة على شبكة الإنترنت لمستخدمي الكمبيوتر!</string>
-    <string name="share_request">مشاركة اللعبة لفتح هذا العنصر!</string>
-    <string name="share_lvl_text">لقد حققت للتو LVL $1%s في Blob.io! يمكنك هزيمة لي الآن ، فتى؟</string>
-    <string name="share_double_coins">شارك نتائجك واحصل على عملات مزدوجة!</string>
+    <string name="web_ver_desc">!توجد نسخة من هذه اللعبة على الكمبيوتر</string>
+    <string name="share_request">!مشاركة اللعبة للفتح</string>
+    <string name="share_lvl_text">!لقد ازددت بمستوى في بلوب. لا يمكنك هزيمتي يا فتى</string>
+    <string name="share_double_coins">!شارك نتائجك و اربح نقود مزدوجة</string>
 
-    <string name="guide_text1"><![CDATA[تأكل <b>طعام</b> ينمو!]]></string>
-    <string name="guide_text2"><![CDATA[صحافة <b>انشق، مزق<b> لتقسيم وأكل لاعبين آخرين!]]></string>
-    <string name="guide_text3"><![CDATA[صحافة <b>يرمي</b> لاطلاق النار في الفيروسات وتفجير لاعبين آخرين!]]></string>
-    <string name="guide_text4">ابتعد عن الفيروسات!</string>
+    <string name="guide_text1"><![CDATA[أكل <b>طعام</b> !للنمو]]></string>
+    <string name="guide_text2"><![CDATA[صحافة <b>فرقع و انقسم<b> !للانقسام و أكل لاعبين آخرين]]></string>
+    <string name="guide_text3"><![CDATA[صحافة <b>أطعم</b> !لفرقعة اللاعبين بالفيروسات و التمكن من أكلهم]]></string>
+    <string name="guide_text4">!ابتعد عن الفيروسات</string>
     <string name="guide_text5">
-        <![CDATA[This game needs <b>strong internet</b>! Sit closer to your Wi-Fi,
-        mobile internet is not recommended! Use <b><i><font color="#1A0DAB">Blob Server</font></i></b> to play offline!]]>
+        <![CDATA[تحتاج هذه اللعبة <b>.لأنترنت قوية</b>!اجلس بالقرب من الانترنت، الداتا غير جيدة مع هذه اللعبة<b><i><font color="#1A0DAB">سرفر بلوب</font></i></b>!للعب بدون أنترنت]]>
     </string>
-    <string name="guide_select_region">حدد أقرب منطقة</string>
+    <string name="guide_select_region">اختر أقرب منطقة</string>
     
     <string name="skins_yt_desc">
 يمكنك تسجيل وتحميل لعبتك على YouTube لتصبح شائعة والحصول على YT داخل اللعبة.
 ستتم إضافة بشرتك إلى هذه القائمة ، بحيث يستخدمها المستخدمون!
 قراءة المتطلبات الفعلية لعلامة YT في الفتنة.
     </string>
-    <string name="skins_prem_desc">على عكس جلود FREE / YT ، يمكنك استخدام جلود PREM / LVL مع أي لقب!</string>
-    <string name="skins_free_desc">لاستخدام هذه الجلود ، يجب عليك تعيين اسمك كاسم الجلد.</string>
-    <string name="revenge">انتقام!</string>
-    <string name="kill_streak">قتل متتالية!</string>
-    <string name="killed_you">%s أقتلك</string>
-    <string name="servers_list_desc">هنا يمكنك اختيار خادم فارغ للتدرب بمفرده أو مع الأصدقاء واختبار أوضاع الألعاب (غير الرسمية).</string>
-    <string name="custom_server_desc">هنا يمكنك إنشاء خادم خاص مع المعلمات المخصصة ، إضافة الروبوتات / التوابع واللعب مع الأصدقاء!</string>
-    <string name="ts2v2_desc">هنا يمكنك اللعب في فرق المعركة 2 ضد 2. يمكنك المراهنة على العملات المعدنية و / أو إنشاء معركة باستخدام مفتاح يشارك فيه فقط أصدقائك</string>
-    <string name="you_won">لقد فزت باللعبة!!</string>
-    <string name="someone_won">%s ربح اللعبة!</string>
+    <string name="skins_prem_desc">.يمكنك استعمال أي اسم مع مظاهر المستويات و الحصرية على عكس المظاهر المجانية</string>
+    <string name="skins_free_desc">.لا يمكن لك استخدام اسمك مع هذا المظهر</string>
+    <string name="revenge">!انتقام</string>
+    <string name="kill_streak">قتل متتالي</string>
+    <string name="killed_you">%s !قتلتك</string>
+    <string name="servers_list_desc">(يمكنك اختيار سرفر فارغ للعب بمفردك أو مع أصدقائك للتدرب، أو اختيار أنواع لعب مختلفة)</string>
+    <string name="custom_server_desc">.هنا يمكنك إنشاء سرفر خاص بك مع إعداداتك الخاصة و اللعب مع أصدقائك</string>
+    <string name="ts2v2_desc">.هنا يمكنك اللعب في فرق المعركة 2 ضد 2. يمكنك المراهنة بالنقود و / أو إنشاء معركة باستخدام مفتاح يشارك فيه فقط أصدقائك</string>
+    <string name="you_won">!لقد فزت باللعبة</string>
+    <string name="someone_won">%s !شخص ما ربح اللعبة</string>
     <string name="direction_lines">خطوط الاتجاه</string>
     <string name="score_result_best">أفضل نتيجة</string>
-    <string name="daily_quests">أسئلة يومية</string>
-    <string name="reset_in">(reset in %s)</string>
-    <string name="q_replace_desc">مرة واحدة في اليوم يمكنك استبدال أي السعي إلى عشوائي آخر!</string>
-    <string name="replace">بطريقة عشوائية</string>
-    <string name="q_choose_replace">اختيار السعي الذي تريد استبداله</string>
-    <string name="q_replace_x">استبدال السعي %s ?</string>
-    <string name="q_replaced">السعي استبدال!</string>
+    <string name="daily_quests">مهام يومية</string>
+    <string name="reset_in">(إعادة التعيين %s)</string>
+    <string name="q_replace_desc">.يمكنك استبدال مهمة كل مرة في اليوم</string>
+    <string name="replace">استبدال</string>
+    <string name="q_choose_replace">.اختيار المهام التي تريد استبدالها</string>
+    <string name="q_replace_x">استبدال المهمة %s ?</string>
+    <string name="q_replaced">!تم استبدال المهمة</string>
     <string name="Completed">منجز</string>
-    <string name="get_reward">تحصل على مكافأة</string>
-    <string name="daily_reward">Daily reward</string>
-    <string name="gain_exp_and_get_reward_every_day">Gain exp and get reward every day</string>
-    <string name="day">Day %d</string>
-    <string name="up_to">Up to %d</string>
+    <string name="get_reward">الحصول على مكافأة</string>
+    <string name="daily_reward">مكافآت يومية</string>
+    <string name="gain_exp_and_get_reward_every_day">اربح إكس بي لربح مكافآت يومية</string>
+    <string name="day">يوم %d</string>
+    <string name="up_to">أعلى ال %d</string>
     <string name="login_to_avoid_captcha">تسجيل الدخول لتجنب هذا الاختيار</string>
-    <string name="replays">Replays</string>
-    <string name="you_have_no_replays">You have no replays</string>
-    <string name="save_replay">Save replay</string>
-    <string name="replay_saved">Replay saved!</string>
-    <string name="old_replay_warning">Replays from older version of the game might not work correctly!</string>
-    <string name="too_new_replay_error">You should update the game to open this replay!</string>
-    <string name="mute">Mute</string>
-    <string name="buttons_position">Joystick position</string>
-    <string name="setup_controls">Setup controls</string>
-    <string name="left">Left</string>
-    <string name="right">Right</string>
-    <string name="follow">Follow</string>
+    <string name="replays">الإعادات</string>
+    <string name="you_have_no_replays">ليس لديك إعادات</string>
+    <string name="save_replay">حفظ الإعادة</string>
+    <string name="replay_saved">تم حفظ الإعادة</string>
+    <string name="old_replay_warning">.يمكن لإعادات من إصدارات قديمة للعبة عدم العمل بطريقة جيدة</string>
+    <string name="too_new_replay_error">!يجب عليك تحميل الإصدار الجديد لفتح هذه الإعادة</string>
+    <string name="mute">كتم الصوت</string>
+    <string name="buttons_position">مكان الأزرار</string>
+    <string name="setup_controls">إعدادات التحكم</string>
+    <string name="left">يسار</string>
+    <string name="right">يمين</string>
+    <string name="follow">المتابعة</string>
     <!-- In-game tips/hints -->
-    <string-array name="hints">
-        <item>شراء VIP والتخلص من الإعلانات!</item>
+    <string-array name="تلميحات">
+        <item>!للتخلص من الإعلانات VIPاشتري ال</item>
         <item>التعاون مع الأصدقاء والاستيلاء على أي خادم!</item>
         <item>إنشاء خادم خاص مع إعدادات مخصصة واللعب مع أصدقائك!</item>
         <item>ينمو قناة يوتيوب الخاصة مع فيدس اللعب ، وتحقيق رتبة YT وتكون شعبية!</item>
