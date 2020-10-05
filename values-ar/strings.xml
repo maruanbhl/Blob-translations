@@ -45,11 +45,11 @@
     </string>
 
     <string name="check_update">تحقق من وجود تحديث</string>
-    <string name="score_result">النقاط الخاصة بك %1$s النقاط</string>
+    <string name="score_result">%1$s لقد حصلت على </string>
     <string name="you_set_new_record">!لقد قمت بفعل رقم قياسي جديد</string>
     <string name="share">المشاركة</string>
-    <string name="share_text">كنت أعتقد كنت هزيمة لي فيالنقطة؟ ها، أنها محاولة :) #blob_game %1$s</string>
-    <string name="share_score_text">حصلت %1$d نقاط في لعبة Blob! العب معي! #blob_game %2$s</string>
+    <string name="share_text">#blob_game %1$s !هل تعتقد أنه يمكنك هزيمتي في بلوب؟ جرب حظك</string>
+    <string name="share_score_text"> %1$s العب معي! لقد حصلت على #blob_game %2$s</string>
     <string name="records">السجلات</string>
     <string name="spec_mode_after_death">وضع المشاهدة بعد الموت</string>
     <string name="darkTheme">شكل مظلم</string>
@@ -77,7 +77,7 @@
 
     </string>
     <string name="first_start_dialog_title">ميكانيك اللعبة</string>
-    <string name="update_title">!يوجد تحديث جديد</string>
+    <string name="update_title">يوجد تحديث جديد</string>
     <string name="update_message">هل تريد التحديث الآن؟</string>
     <string name="players">اللاعبين:&#160;</string>
     <string name="totals">الإجماليات</string>
@@ -92,17 +92,17 @@
     <string name="game_mode">نوع اللعبة</string>
     <string name="unavailable">غير متوفر</string>
     <string name="top_lvl">المستويات العليا</string>
-    <string name="top">القمة &#160;</string>
+    <string name="top">القمة ;&#160</string>
     <string name="receiving">...جاري التلقي</string>
     <string name="get_it">!أحصل عليه</string>
 
-    <string name="keep_ip">IPالاحتفاظ بال</string>
-    <string name="keep_ip_description">!لهذه اللعبة IPلن يتم تحديث ال</string>
+    <string name="keep_ip">لهذه الغرفة IPالاحتفاظ بال</string>
+    <string name="keep_ip_description">لهذه الغرفة IPلن يتم تحديث ال </string>
 
     <!-- Rate this app-->
-    <string name="rta_dialog_title">!قم بتقييم اللعبة</string>
-    <string name="rta_dialog_message">!إذا كنت تستمتع باللعبة المرجو ترك تقييم للعبة، لن تأخذ العملية أكثر من دقيقة. نشكركم على الدعم المستمر</string>
-    <string name="rta_dialog_ok">!تقييم اللعبة الآن</string>
+    <string name="rta_dialog_title">قم بتقييم اللعبة</string>
+    <string name="rta_dialog_message">!إذا كنت تستمتع باللعبة المرجو ترك تقييم، لن تأخذ العملية أكثر من دقيقة. نشكركم على الدعم المستمر</string>
+    <string name="rta_dialog_ok">تقييم اللعبة الآن</string>
     <string name="rta_dialog_cancel">مرة أخرى</string>
     <string name="rta_dialog_no">نوع اللعبة</string>
 
@@ -113,7 +113,7 @@
 
     <string name="low_lvl_message">مستوى أقل من المطلوب</string>
     <string name="login_for_skins_message">يجب عليك تسجيل الدخول لاستخدام المظاهر</string>
-    <string name="skin_unlocked">مظهر متاح$s!</string>
+    <string name="skin_unlocked">!%1$s لقد فتحت مظهر جديد</string>
     <string name="optimize_names">تحسين الأسماء</string>
     <string name="low_graphic">جودة منخفضة</string>
     <string name="macros">وحدات الماكرو</string>
@@ -124,7 +124,7 @@
     <string name="my_new_friends">طلبات الصداقة</string>
     <string name="followers">المتابعين</string>
     <string name="blocked">المحظورين</string>
-    <string name="playing">داخل لعبة:&#160;</string>
+    <string name="playing">&#160;:في اللعبة</string>
     <string name="offline">غير متصل</string>
     <string name="relations">العلاقات</string>
     <string name="you_must_log_in">يجب عليك تسجيل الدخول</string>
@@ -173,48 +173,48 @@
 
     <string name="empty">فارغة</string>
     <string name="you_dont_have_friends">:( ليس لديك أي صديق</string>
-    <string name="bought_succeed">!تم الإشتراء بنجاح</string>
+    <string name="bought_succeed">!بنجاح %s تم اشتراء</string>
 
     <!-- API ERROR MESSAGES -->
     <string name="user_not_found">لم يتم العثور على اللاعب</string>
     <string name="request_already_sent_error">تم إرسال طلب صداقة من قبل</string>
-    <string name="already_friend_error">هذا المستخدم هو بالفعل صديقك</string>
+    <string name="already_friend_error">هذا اللاعب هو بالفعل صديقك</string>
     <string name="not_enough_coins">ليس لديك ما يكفي من النقود</string>
     <string name="already_own_item">أنت بالفعل تمتلك هذا العنصر</string>
 
-    <string name="searching_ad_video">...جاري البحث عن فيديو</string>
+    <string name="searching_ad_video">جاري البحث عن فيديو، المرجو الانتظار</string>
     <string name="processing">...جاري المعالجة</string>
-    <string name="free_coins_toast">!لقد حصلت على نقود مجانية</string>
+    <string name="free_coins_toast">!مجانية %d لقد حصلت على</string>
     <string name="free_coins">نقود مجانية</string>
     <string name="watch_video">مشاهدة الفيديو</string>
-    <string name="lvl_coins_reward">!لقد تقدمت بمستوى، تهانينا</string>
+    <string name="lvl_coins_reward">%2$d تهانينا! لقد تقدمت بمستوى و ربحت</string>
 
     <!-- Items description localization -->
-    <string name="mass_booster_x1_5_desc">لمدة الساعة القادمة ستبدأ اللعبة بحجم أكبر ب1.5 مرة</string>
-    <string name="mass_booster_x2_desc">لمدة الساعة القادمة ستبدأ اللعبة بحجم أكبر بمرتين</string>
-    <string name="exp_booster_x1_5_desc">كل الإكس بي المكتسب سيضرب في 1.5 لمدة الساعة القادمة</string>
-    <string name="exp_booster_x2_desc">كل الإكس بي المكتسب سيضرب في 2 لمدة الساعة القادمة</string>
-    <string name="watch_video_desc">!قم بمشاهدة الفيديو و احصل على نقود</string>
-    <string name="free_coins_desc">احصل على %1$s من النقود مجانا ك %2$d ساعة</string>
+    <string name="mass_booster_x1_5_desc">!لمدة الساعة القادمة ستبدأ اللعبة بحجم أكبر ب1.5 مرة</string>
+    <string name="mass_booster_x2_desc">!لمدة الساعة القادمة ستبدأ اللعبة بحجم أكبر بمرتين</string>
+    <string name="exp_booster_x1_5_desc">!كل الإكس بي المكتسب سيضرب في 1.5 لمدة الساعة القادمة</string>
+    <string name="exp_booster_x2_desc">!كل الإكس بي المكتسب سيضرب في 2 لمدة الساعة القادمة</string>
+    <string name="watch_video_desc">!من النقود %d قم بمشاهدة فيديو و اربح</string>
+    <string name="free_coins_desc">%2$d احصل على نقود مجانية بعد مرور</string>
     <string name="m">m</string>
     <string name="h">h</string>
     <string name="d">d</string>
     <string name="mass_booster_has_expired">انتهت صلاحية بوستر الحجم</string>
     <string name="exp_booster_has_expired">انتهت صلاحية بوستر الإكس بي</string>
-    <string name="chat_suffix_desc">إضافة إلى نيك %s لاحقة</string>
-    <string name="user_role_desc">هذا اللاعب %s</string>
-    <string name="size_animation_speed">حجم سرعة الحركة</string>
+    <string name="chat_suffix_desc">%s إضافة إلى الاسم</string>
+    <string name="user_role_desc">%s هذا اللاعب هو</string>
+    <string name="size_animation_speed">:حجم سرعة الحركة</string>
     <string name="search">البحث</string>
     <string name="type_skin_name">اكتب اسم المظهر</string>
-    <string name="waiting_for_players">...جاري انتظار اللاعبين</string>
+    <string name="waiting_for_players">جاري انتظار اللاعبين</string>
     <string name="type_room_key">أكتب اسم الغرفة</string>
 
     <string name="random">عشوائي</string>
     <string name="key">المفتاح</string>
-    <string name="left_label">(%s left)</string>
-    <string name="coins_battle">"نقود معركة"</string>
+    <string name="left_label">(%s غادر)</string>
+    <string name="coins_battle">:نقود معركة</string>
     <string name="spectate_title">المشاهدة</string>
-    <string name="game_isnt_started_yet">.لم تبدأ اللعبة بعد</string>
+    <string name="game_isnt_started_yet">!لم تبدأ اللعبة بعد. من الممكن أن تخسر بعض النقود</string>
     <string name="show_cell_border">إظهار حدود الخلية</string>
     <string name="cur_week_exp">إكس بي هذا الأسبوع</string>
     <string name="prev_week_exp">إكس بي الأسبوع الماضي</string>
@@ -236,13 +236,13 @@
     <string name="deleted">تم الحذف</string>
     <string name="added">تمت الإضافة</string>
     <string name="add_new">اضف جديد</string>
-    <string name="cant_be_empty">%s لا يمكن أن يبقى فارغ</string>
+    <string name="cant_be_empty">لا يمكن أن يبقى فارغ %s</string>
     <string name="list">القائمة</string>
     <string name="info_title">المعلومات</string>
     <string name="time_left">:الوقت المتبقي</string>
     <string name="edit">تغيير</string>
     <string name="chat_enable_warning">مع هذا الخيار ، يصبح تقييم التطبيق مرتفعا!</string>
-    <string name="score_title">النقاط</string>
+    <string name="score_title">:النقاط</string>
     <string name="bet_value">:قيمة الرهان</string>
     <string name="create">خلق</string>
     <string name="custom_server">سيرفر مخصص</string>
@@ -268,8 +268,8 @@
     <string name="gold">ذهب</string>
     <string name="silver">فضة</string>
     <string name="bronze">برونز</string>
-    <string name="medal_description"> ميدالية لوضعها %1$s في الجزء العلوي في التصنيف العالمي %2$s !</string>
-    <string name="medal_description_first_place">ميدالية لوضع المركز الأول في التصنيف العالمي!</string>
+    <string name="medal_description">!%2$s ميدالية للتصنيف عالميا رقم</string>
+    <string name="medal_description_first_place">!ميدالية لوضع المركز الأول في التصنيف العالمي</string>
 
     <string name="try_for_free">جرب بالمجان</string>
     <string name="account">الحساب</string>
@@ -277,7 +277,7 @@
     <string name="no_ads">لا توجد إعلانات</string>
     <string name="dialog_vip_desc_free_hours">نقود مجانية كل ساعة</string>
     <string name="dialog_vip_desc_ingame_coins">نقود في اللعبة</string>
-    <string name="dialog_vip_desc_additional_exp"> زيادة إضافية</string>
+    <string name="dialog_vip_desc_additional_exp">زيادة إضافية</string>
     <string name="dialog_vip_desc_start_mass">حجم البداية</string>
     <string name="dialog_vip_desc_discount">خصم على المشتريات</string>
     <string name="dialog_vip_desc_chat_label">في الدردشة VIP علامة</string>
@@ -285,7 +285,7 @@
     <string name="dialog_vip_desc_lock_name">اسم ذهبي</string>
     <string name="side">:الجانب</string>
     <string name="bottom">:الأسفل</string>
-    <string name="chat_m_hide_show">إخفاء / عرض</string>
+    <string name="chat_m_hide_show">إخفاء/عرض</string>
     <string name="chat_m_expand_collapse">توسيع الانهيار</string>
     <string name="chat_m_invite_friend">دعوة صديق</string>
     <string name="chat_m_big_map">خريطة كبيرة</string>
@@ -298,9 +298,9 @@
     <string name="share_lvl_text">!لقد ازددت بمستوى في بلوب. لا يمكنك هزيمتي يا فتى</string>
     <string name="share_double_coins">!شارك نتائجك و اربح نقود مزدوجة</string>
 
-    <string name="guide_text1"><![CDATA[أكل <b>طعام</b> !للنمو]]></string>
-    <string name="guide_text2"><![CDATA[صحافة <b>فرقع و انقسم<b> !للانقسام و أكل لاعبين آخرين]]></string>
-    <string name="guide_text3"><![CDATA[صحافة <b>أطعم</b> !لفرقعة اللاعبين بالفيروسات و التمكن من أكلهم]]></string>
+    <string name="guide_text1"><![CDATA[أكل <b>طعام</b> !انمو]]></string>
+    <string name="guide_text2"><![CDATA[اضغط <b>فرقع و انقسم<b> !و كل لاعبين آخرين]]></string>
+    <string name="guide_text3"><![CDATA[اضغط <b>أطعم</b> !لفرقعة اللاعبين بالفيروسات و التمكن من أكلهم]]></string>
     <string name="guide_text4">!ابتعد عن الفيروسات</string>
     <string name="guide_text5">
         <![CDATA[تحتاج هذه اللعبة <b>.لأنترنت قوية</b>!اجلس بالقرب من الانترنت، الداتا غير جيدة مع هذه اللعبة<b><i><font color="#1A0DAB">سرفر بلوب</font></i></b>!للعب بدون أنترنت]]>
@@ -309,7 +309,7 @@
     
     <string name="skins_yt_desc">
 يمكنك تسجيل وتحميل لعبتك على YouTube لتصبح شائعة والحصول على YT داخل اللعبة.
-ستتم إضافة بشرتك إلى هذه القائمة ، بحيث يستخدمها المستخدمون!
+ستتم إضافة مظهرك إلى هذه القائمة ، بحيث يستخدمها المستخدمون!
 قراءة المتطلبات الفعلية لعلامة YT في الفتنة.
     </string>
     <string name="skins_prem_desc">.يمكنك استعمال أي اسم مع مظاهر المستويات و الحصرية على عكس المظاهر المجانية</string>
