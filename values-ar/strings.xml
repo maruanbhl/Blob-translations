@@ -97,7 +97,7 @@
     <string name="get_it">اشتراء!</string>
 
     <string name="keep_ip">لهذه الغرفة IPالاحتفاظ بال</string>
-    <string name="keep_ip_description">لهذه الغرفة IPلن يتم تحديث ال </string>
+    <string name="keep_ip_description">IPلن يتم تحديث ال</string>
 
     <!-- Rate this app-->
     <string name="rta_dialog_title">قم بتقييم اللعبة</string>
