@@ -4,9 +4,9 @@
     <string name="cancel">إلغاء </string>
     <string name="error">خطأ</string>
     <string name="no_internet">لا يوجد أنترنت</string>
-    <string name="show_minimap">إظهار خريطة مصغرة</string>
+    <string name="show_minimap">إظهار الخريطة المصغرة</string>
     <string name="show_chat">إظهار الدردشة</string>
-    <string name="show_advanced_minimap">إضهار الخريطة المصغرة المتطورة</string>
+    <string name="show_advanced_minimap">إظهار الخريطة المصغرة المتطورة</string>
     <string name="region">المنطقة</string>
     <string name="show_grid">إظهار الشبكة</string>
     <string name="show_mass">إظهار الأطعمة</string>
@@ -36,16 +36,12 @@
     <string name="connection_lost">فقد الإتصال</string>
     <string name="cant_connect">لا يمكن الإتصال</string>
     <string name="about_title">بشأن</string>
-    <string name="about_text">&#032;&#032;النقطة الروبوتالعميل %1$s \n\n
-
-        &#032;هذا التطبيق أجاريو مثل ساخرة.\n
-
-        &#032;إذا كان هذا العميل إيقاف العمل، التحقق من وجود تحديثات.\n
-
+    <string name="about_text">&#032;&#032;Blob Android Client %1$s \n\n
+        &#032; :يمكنك أن تبعث لنا اقتراحاتك هنا
     </string>
 
     <string name="check_update">تحقق من وجود تحديث</string>
-    <string name="score_result">%1$s لقد حصلت على </string>
+    <string name="score_result">%1$s لقد حصلت على</string>
     <string name="you_set_new_record">لقد قمت بفعل رقم قياسي جديد!</string>
     <string name="share">المشاركة</string>
     <string name="share_text">#blob_game %1$s !هل تعتقد أنه يمكنك هزيمتي في بلوب؟ جرب حظك</string>
@@ -72,7 +68,7 @@
         التحكم: \n
         &#160;- انقر في أي مكان على الشاشة للتحرك، أو استعمل عصا التحكم.\n
         &#160;- اضغط على الأزرار المحددة لكل عملية للقيام بها.\n
-        &#160;- RAMإذا حدث خلل ما، قم بإعادة فتح اللعبة و إخلاء ال.\n
+        &#160;- .RAMإذا حدث خلل ما، قم بإعادة فتح اللعبة و إخلاء ال\n
         &#160;- يمكنك إعادة قراءة هذه المعلومات عن طريقة الضغط على علامة الإستفهام الموجودة في القائمة الرئيسية.\n
 
     </string>
@@ -274,13 +270,13 @@
     <string name="try_for_free">جرب بالمجان</string>
     <string name="account">الحساب</string>
     <string name="dialog_vip_desc_title2">!VIPتعبت من الإعلانات؟ اشتري ال</string>
-    <string name="no_ads">لا توجد إعلانات</string>
+    <string name="no_ads">لا وجود للإعلانات</string>
     <string name="dialog_vip_desc_free_hours">نقود مجانية كل ساعة</string>
     <string name="dialog_vip_desc_ingame_coins">نقود في اللعبة</string>
-    <string name="dialog_vip_desc_additional_exp">زيادة إضافية</string>
-    <string name="dialog_vip_desc_start_mass">حجم البداية</string>
+    <string name="dialog_vip_desc_additional_exp">إكس بي زائد</string>
+    <string name="dialog_vip_desc_start_mass">البداية بحجم أكبر</string>
     <string name="dialog_vip_desc_discount">خصم على المشتريات</string>
-    <string name="dialog_vip_desc_chat_label">في الدردشة VIP علامة</string>
+    <string name="dialog_vip_desc_chat_label">VIP في الدردشة علامة</string>
     <string name="dialog_vip_desc_border">قوس قزح في حدود الخلية</string>
     <string name="dialog_vip_desc_lock_name">اسم ذهبي</string>
     <string name="side">الجانب:</string>
@@ -298,12 +294,12 @@
     <string name="share_lvl_text">لقد ازددت بمستوى في بلوب !لا يمكنك هزيمتي يا فتى.</string>
     <string name="share_double_coins">شارك نتائجك و اربح نقود مزدوجة!</string>
 
-    <string name="guide_text1"><![CDATA[أكل <b>طعام</b> اكبر!]]></string>
+    <string name="guide_text1"><![CDATA[كل <b>طعام</b> لكي تكبر!]]></string>
     <string name="guide_text2"><![CDATA[اضغط <b>فرقع و انقسم<b> و كل لاعبين آخرين!]]></string>
-    <string name="guide_text3"><![CDATA[اضغط <b>أطعم</b> لفرقعة اللاعبين بالفيروسات و التمكن من أكلهم!]]></string>
-    <string name="guide_text4">!ابتعد عن الفيروسات</string>
+    <string name="guide_text3"><![CDATA[أطعم <b>الفيروسات</b> لفرقعة اللاعبين و التمكن من أكلهم!]]></string>
+    <string name="guide_text4">احذر من الفيروسات إذا كنت كبير!</string>
     <string name="guide_text5">
-            <![CDATA[تحتاج هذه اللعبة <b>لأنترنت قوية.</b>اجلس بالقرب من الانترنت، الداتا غير جيدة مع هذه اللعبة!<b><i><font color="#1A0DAB">سرفر بلوب</font></i></b>!للعب بدون أنترنت]]>
+            <![CDATA[تحتاج هذه اللعبة <b>لأنترنت قوية </b>لذا يجب عليك الجلوس قرب الأنترنت. و التأكد من عدم استعمال البلوتوث أو الموبايل داتا.<b><i><font color="#1A0DAB">سرفر بلوب</font></i></b>!للعب بدون أنترنت]]>
         </string>
     <string name="guide_select_region">اختر أقرب منطقة</string>
 
