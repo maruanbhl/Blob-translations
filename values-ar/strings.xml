@@ -344,11 +344,11 @@
     <string name="follow">المتابعة</string>
 
     <!--    PRIVATE servers -->
-    <string name="private_servers_list">Private servers list</string>
-    <string name="bots">Bots</string>
-    <string name="minions">Minions</string>
-    <string name="public_title">Public</string>
-    <string name="server_name">Server name</string>
+    <string name="private_servers_list">قائمة السيرفرات الخاصة</string>
+    <string name="bots">بوت</string>
+    <string name="minions">مينيونز</string>
+    <string name="public_title">عام</string>
+    <string name="server_name">اسم السرفر</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
