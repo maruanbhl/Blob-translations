@@ -109,7 +109,7 @@
     <string name="rta_dialog_ok2">Share now!</string>
 
     <string name="low_lvl_message">Your level is lower than required</string>
-    <string name="login_for_skins_message">You must login to use these skins</string>
+    <string name="login_for_skins_message">You must log in to use these skins</string>
     <string name="skin_unlocked">You unlocked a skin %1$s!</string>
     <string name="optimize_names">Optimize names</string>
     <string name="low_graphic">Low graphics</string>
@@ -246,8 +246,8 @@
     <!-- Items description localization -->
     <string name="mass_booster_x1_5_desc">Start the game with x1.5 bigger mass for the next 1 hour!</string>
     <string name="mass_booster_x2_desc">Start the game with double mass for the next 1 hour!</string>
-    <string name="exp_booster_x1_5_desc">All earned exp multiplies by 1.5 for the next 1 hour!</string>
-    <string name="exp_booster_x2_desc">All earned exp multiplies by 2 for the next 1 hour!</string>
+    <string name="exp_booster_x1_5_desc">All earned XP multiplies by 1.5 for the next 1 hour!</string>
+    <string name="exp_booster_x2_desc">All earned XP multiplies by 2 for the next 1 hour!</string>
     <string name="watch_video_desc">Watch video and get %d coins!</string>
     <string name="free_coins_desc">Get %1$s coins for free every %2$d hour!</string>
     <string name="m">m</string>
@@ -447,7 +447,7 @@
         <item>You can connect a mouse to your phone and play with it like on PC!</item>
         <item>Use the Blob Server app to create your very own server offline!</item>
         <item>Click on the triangle next to the chat and invite friends to your server!</item>
-        <item>Login to level up and start the game with more mass!</item>
+        <item>Log in to level up and start the game with more mass!</item>
         <item>Use MASS/XP boosters to win more and level up faster!</item>
         <item>If you run out of coins, you can buy them! :)</item>
         <item>Use rare skins and make everybody jealous!</item>
