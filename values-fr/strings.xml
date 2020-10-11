@@ -307,90 +307,89 @@
     <string name="guide_select_region">Sélectionner la région la plus proche</string>
 
     <string name="skins_yt_desc">
-        <![CDATA[Vous pouvez enregistrer et télécharger votre ameplay sur YouTube pour devenir populaire et obtenir un rôle dans le jeu <font color="#FF0000"><b><big>[YT]</big></b></font>.
-        Votre skin sera ajouté à cette liste, afin que les gens l\'utilisent!
-        Lire les exigences réelles pour la balise <font color="#FF0000"><b><big>[YT]</big></b></font> en discorde]]>
+        <![CDATA[Vous pouvez enregistrer et partager votre vidéos gameplay sur YouTube pour devenir populaire et obtenir un rôle dans le jeu <font color="#FF0000"><b><big>[YT]</big></b></font>.
+        Votre apparence sera ajouté à cette liste, afin que les gens l\'utilisent!
+        Lirsez les exigences pour ce rôle <font color="#FF0000"><b><big>[YT]</big></b></font> en Discord]]>
     </string>
-    <string name="skins_prem_desc">Contrairement aux skins Free / YT, vous pouvez utiliser les skins PREM / LVL avec n\'importe quel pseudo!</string>
-    <string name="skins_free_desc">Pour utiliser ces skins, vous devez définir votre nom comme nom de la peau.</string>
-    <string name="revenge">Revenge!</string>
-    <string name="kill_streak">Kill streak!</string>
-    <string name="killed_you">%s killed you</string>
-    <string name="servers_list_desc">Here you can choose empty server to practice alone or with friends and test (UNOFFICIAL) game modes</string>
-    <string name="custom_server_desc">Here you can create private server with custom params, add bots/minions and play with friends!</string>
-    <string name="ts2v2_desc">Here you can play in teams battle 2 vs 2. You can make coins bet and/or create battle with a key so only your friends will participate in it</string>
-    <string name="you_won">YOU won the game!</string>
-    <string name="someone_won">%s won the game!</string>
-    <string name="direction_lines">Direction lines</string>
+    <string name="skins_prem_desc">Contrairement aux apparences Gratuits/YT, vous pouvez utiliser les skins PREMIUM/NIVEAU avec n\'importe quel nom!</string>
+    <string name="skins_free_desc">Pour utiliser ces apparences, votre nom va être défini comme le nom de l'apparence.</string>
+    <string name="revenge">Vengeance!</string>
+    <string name="kill_streak">Tue en séquence!</string>
+    <string name="killed_you">%s t'as tué</string>
+    <string name="servers_list_desc">Ici, vous pouvez choisir un serveur vide pour vous entraîner seul ou avec des amis et tester les modes de jeu unoficielles</string>
+    <string name="custom_server_desc">Ici, vous pouvez créer un serveur privé avec des paramètres personnalisés, ajouter des bots et jouer avec votre amis!</string>
+    <string name="ts2v2_desc">Ici, vous pouvez jouer en bataille équipe 2 vs 2. Vous pouvez faire des paris sur des pièces et/ou créer une bataille avec une clé pour que seuls vos amis y participent!</string>
+    <string name="you_won">Tu as gagné la partie!</string>
+    <string name="someone_won">%s a gagné la partie!</string>
+    <string name="direction_lines">Lignes directrices</string>
     <string name="score_result_best">Meilleur score</string>
-    <string name="daily_quests">Daily quests</string>
-    <string name="reset_in">(reset in %s)</string>
-    <string name="q_replace_desc">Once a day you can replace any quest to another random one!</string>
-    <string name="replace">Replace</string>
-    <string name="q_choose_replace">Choose a quest that you want to replace</string>
-    <string name="q_replace_x">Replace quest %s ?</string>
-    <string name="q_replaced">Quest replaced!</string>
-    <string name="Completed">Completed</string>
-    <string name="get_reward">Get Reward</string>
-    <string name="daily_reward">Daily reward</string>
-    <string name="gain_exp_and_get_reward_every_day">Gain exp and get reward every day</string>
-    <string name="day">Day %d</string>
-    <string name="up_to">Up to %d</string>
-    <string name="login_to_avoid_captcha">Connectez-vous pour éviter cette vérification</string>
-    <string name="replays">Replays</string>
-    <string name="you_have_no_replays">You have no replays</string>
-    <string name="save_replay">Save replay</string>
-    <string name="replay_saved">Replay saved!</string>
-    <string name="old_replay_warning">Replays from older version of the game might not work correctly!</string>
-    <string name="too_new_replay_error">You should update the game to open this replay!</string>
-    <string name="mute">Mute</string>
-    <string name="buttons_position">Joystick position</string>
-    <string name="setup_controls">Setup controls</string>
-    <string name="left">Left</string>
-    <string name="right">Right</string>
-    <string name="follow">Follow</string>
-    <string name="private_servers_list">Private servers list</string>
+    <string name="daily_quests">Quêtes quotidiennes</string>
+    <string name="reset_in">(réinitialisation dans %s)</string>
+    <string name="q_replace_desc">Une fois par jour, vous pouvez remplacer n'importe quelle quête par une autre!</string>
+    <string name="replace">Remplacer</string>
+    <string name="q_choose_replace">Choisissez une quête que vous souhaitez remplacer</string>
+    <string name="q_replace_x">Remplacer quête %s ?</string>
+    <string name="q_replaced">Quête remplacée</string>
+    <string name="Completed">Terminé</string>
+    <string name="get_reward">obtenir récompense</string>
+    <string name="daily_reward">Récompense quotidienne</string>
+    <string name="gain_exp_and_get_reward_every_day">Gagnez de l\'XP et obtenez des récompenses tous les jours</string>
+    <string name="day">Jour %d</string>
+    <string name="up_to">Jusqu'à %d</string>
+    <string name="login_to_avoid_captcha">Connectez-vous pour éviter la vérification</string>
+    <string name="replays">Rediffusions</string>
+    <string name="you_have_no_replays">Tu n'as aucune rediffusion</string>
+    <string name="save_replay">Enregistrer rediffusion</string>
+    <string name="replay_saved">Rediffusion enregistrée</string>
+    <string name="old_replay_warning">Il est possible que les rediffusions des versions anciennes ne fonctionnent pas correctement!</string>
+    <string name="too_new_replay_error">Vous devez mettre le jeu à jour pour ouvrir cette rediffusion!</string>
+    <string name="mute">Muet</string>
+    <string name="buttons_position">Position des contrôles</string>
+    <string name="setup_controls">Configuration des contrôles</string>
+    <string name="left">Gauche</string>
+    <string name="right">Droit</string>
+    <string name="follow">Suivre</string>
+    <string name="private_servers_list">liste des serveurs privés</string>
     <string name="bots">Bots</string>
     <string name="minions">Minions</string>
     <string name="public_title">Public</string>
-    <string name="server_name">Server name</string>
+    <string name="server_name">Nom de serveur</string>
 
     <!-- In-game tips/hints -->
     <string-array name="hints">
-        <item>Achetez VIP et débarrassez-vous de ADS!</item>
+        <item>Achetez VIP et débarrassez-vous des divertissements!</item>
         <item>Coopérer avec des amis et prendre en charge n\'importe quel serveur!</item>
         <item>Créez votre propre serveur avec des paramètres personnalisés et jouez avec vos amis!</item>
-        <item>Développez votre propre chaîne YouTube avec des vidéos de jeu, atteignez le rang YT et soyez populaire!</item>
-        <item>N\'oubliez pas de collecter des pièces gratuites toutes les heures!</item>
-        <item>Obtenez plus d\'EXP pendant une semaine que quiconque et gagnez 55000 pièces!</item>
+        <item>Développez votre propre chaîne YouTube avec des vidéos de gameplay, atteignez le rang YT et soyez populaire!</item>
+        <item>N\'oubliez pas de collecter des pièces gratuites chaque 1 heure!</item>
+        <item>Obtenez le plus d\'XP pendant une semaine et gagnez 55000 pièces!</item>
         <item>Vous pouvez combattre 2 vs 2 pour des pièces!</item>
-        <item>Vous pouvez faire une mêlée jusqu\'à 5 contre 5!</item>
-        <item>Vous pouvez ouvrir une grande carte en cliquant sur une mini-carte dans le jeu!</item>
-        <item>Vous pouvez connecter la souris à votre téléphone et jouer avec elle comme sur un PC!</item>
-        <item>Utilisez l\'application Blob Server pour créer votre propre serveur hors ligne!</item>
+        <item>Vous pouvez faire des combats jusqu\'à 5 contre 5!</item>
+        <item>Vous pouvez ouvrir une grande map en cliquant sur la mini-map dans le jeu!</item>
+        <item>Vous pouvez connecter la souris à votre téléphone et jouer avec comme sur un PC!</item>
+        <item>Utilisez l\'application (Blob Server) pour créer votre propre serveur hors ligne!</item>
         <item>Cliquez sur un triangle près du chat et invitez des amis sur votre serveur!</item>
-        <item>Connectez-vous pour monter et commencer le jeu avec une plus grande masse!</item>
-        <item>Utilisez les boosters Mass / Exp pour gagner plus et gagner plus rapidement!</item>
-        <item>Si vous manquez de pièces, achetez-les! :)</item>
-        <item>Utilisez des peaux rares et rendez tout le monde jaloux!</item>
+        <item>Connectez-vous pour commencer le jeu avec une plus grande masse!</item>
+        <item>Utilisez les boosters de MASSE/XP pour avoir plus de mass et gagner plus rapidement!</item>
+        <item>Si vous manquez de pièces, vous pouvez les acheter! :)</item>
+        <item>Utilisez des apparences rares et rendez tout le monde jaloux!</item>
         <item>Personnalisez les couleurs et les paramètres du jeu selon vos besoins pour jouer plus confortablement!</item>
-        <item>Vous pouvez voir vos amis sur la mini-carte!</item>
+        <item>Vous pouvez voir vos amis sur la mini-map!</item>
         <item>Discutez avec des gens et trouvez de nouveaux amis!</item>
-        <item>Rejoignez notre serveur de discorde pour voter / discuter et être à jour!</item>
+        <item>Rejoignez notre serveur Discord pour voter/discuter et être à jour!</item>
         <item>Amenez vos vrais amis à Blob pour s\'amuser ensemble!</item>
-        <item>Chaque joueur a un identifiant unique, vous pouvez le partager pour que les gens puissent vous trouver dans Blob!</item>
-        <item>Vous pouvez jouer sur un serveur vide comme pratique!</item>
-        <item>Tu peut cliquer sur l ip de l\'étiquette et la change ou ouvrir la liste des serveurs!</item>
-        <item>Sois sure de rejoindre nos reseaux sociaux pour être à jour,trouver des amis et ameliorer tes compétence!</item>
-        <item>Nous testons toujour les nouveaux modes.Tu peut les trouver dans la liste des serveurs (la catégorie unoficielle)!</item>
-        <item>Nous avons d\'impressionnant modes à essayé en unoficielle!)</item>
-        <item>Si vous êtes nouveau dans ce jeu, découvrez sur YouTube comment d\'autres personnes jouent dans Blob!  C\'est incroyable!</item>
-        <item>Asseyez-vous plus près de votre Wifi, Internet mobile n\'est pas recommandé!</item>
+        <item>Chaque joueur a un identifiant unique, vous pouvez le partager pour que les gens puissent vous trouver dans Blob.io!</item>
+        <item>Vous pouvez jouer sur un serveur vide pour pratique!</item>
+        <item>Tu peut cliquer sur l\'ip et la changer ou ouvrir la liste des serveurs!</item>
+        <item>Sois sure de rejoindre nos réseaux sociaux pour être à jour,trouver des amis et pour améliorer tes compétences!</item>
+        <item>Nous testons toujour des nouveaux modes.Tu peut les trouver dans la liste des serveurs unoficielles!</item>
+        <item>Nous avons d\'impressionnant modes à essayé dans notre serveurs unoficielles!</item>
+        <item>Si vous êtes nouveau dans ce jeu, découvrez sur YouTube comment d\'autres personnes jouent dans Blob.io!  C\'est incroyable!</item>
+        <item>Soyez plus près de votre Wifi. La connexion mobile (data) n\'est pas recommandé!</item>
         <item>Désactivez BLUETOOTH pour réduire les décalages réseau!</item>
-        <item>Désactivez BLUETOOTH pour réduire les décalages réseau!</item>
-        <item>Vous pouvez configurer une image comme arrière-plan dans le jeu!</item>
-        <item>Vous pouvez enregistrer de jolis moments de jeu et les regarder plus tard dans les replays!</item>
-        <item>Vous pouvez partager vos rediffusions avec d\'autres personnes pour leur montrer comment vous gagnez!</item>
+        <item>Vous pouvez configurer quelle que soit l'image comme arrière-plan dans le jeu!</item>
+        <item>Vous pouvez enregistrer de jolis moments de jeu et les regarder plus tard dans les rediffusions!</item>
+        <item>Vous pouvez partager vos rediffusions avec d\'autres personnes pour leur montrer votre compétences!</item>
     </string-array>
 
 </resources>
