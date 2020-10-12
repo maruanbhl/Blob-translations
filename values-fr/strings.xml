@@ -208,101 +208,101 @@
 
     <string name="random">Au hasard</string>
     <string name="key">Clé</string>
-    <string name="left_label">(%s left)</string>
-    <string name="coins_battle">"Bataille de pièces::"</string>
+    <string name="left_label">(%s a quitté)</string>
+    <string name="coins_battle">"Bataille de pièces:"</string>
     <string name="spectate_title">Regarder</string>
-    <string name="game_isnt_started_yet">Le jeu n\'a pas encore commencé. Vous risquez de perdre vos pièces de monnaie!</string>
+    <string name="game_isnt_started_yet">Le jeu n\'a pas encore commencé. Vous risquez de perdre vos pièces!</string>
     <string name="show_cell_border">Afficher la bordure de la cellule</string>
-    <string name="cur_week_exp">XP hebdomadaire</string>
-    <string name="prev_week_exp">XP hebdomadaire</string>
+    <string name="cur_week_exp">XP cette sem.</string>
+    <string name="prev_week_exp">XP sem. précédente</string>
     <string name="rules_title">Règles</string>
     <string name="rules_description">
     \n
-    1.) N\'insultez pas les autres joueurs\n
-    2.) Ne prétends pas être un MODERATEUR\n
+    1.) N\'insultez pas les autres joueurs.\n
+    2.) Ne prétends pas d\'être un MODERATEUR.\n
     3.) N\'échangez pas de comptes Blob.io à l\'extérieur ou à l\'intérieur du jeu.\n
-    4.) Ne trichez pas pour atteindre le haut Classement du jeu\n
-    5.) N\'utilisez pas de noms inappropriés dans le jeu\n
+    4.) Ne trichez pas pour atteindre le haut Classement du jeu.\n
+    5.) N\'utilisez pas des noms inappropriés dans le jeu.\n
     6.) Ne pas profiter des bugs dans le jeu\n
     7.) Ne faites pas équipe avec quelqu\'un de l\'équipe adverse (CROSS TEAMING)\n
     </string>
-    <string name="top_week_exp_desc">Obtenez autant exp comme vous pouvez pendant la semaine et gagnez des pièces de monnaie!</string>
-    <string name="server_app_description">Avec cette application, vous pouvez créer votre propre serveur et jouer hors ligne ou avec des amis!</string>
+    <string name="top_week_exp_desc">Obtenez le plus XP pendant la semaine et gagnez 55000 pièces!</string>
+    <string name="server_app_description">Avec cette application, vous pouvez créer votre propre serveur et jouer hors ligne ou avec votre amis!</string>
     <string name="show_fps">Afficher FPS/PING</string>
     <string name="saved">Enregistré</string>
     <string name="delete_server">Supprimer le serveur?</string>
     <string name="deleted">Supprimé</string>
-    <string name="added">Ajoutée</string>
+    <string name="added">Ajouté</string>
     <string name="add_new">Ajouter un nouveau</string>
-    <string name="cant_be_empty">%s cun\'t être vide!</string>
+    <string name="cant_be_empty">%s peux pas être vide!</string>
     <string name="list">liste</string>
     <string name="info_title">Information</string>
     <string name="time_left">Temps restant:</string>
     <string name="edit">modifier</string>
     <string name="chat_enable_warning">Avec cette option, l\'évaluation de l\'application devient plus élevée!</string>
     <string name="score_title">Score:</string>
-    <string name="bet_value">Valeur De Mise:</string>
-    <string name="create">Créé</string>
+    <string name="bet_value">Valeur du pari:</string>
+    <string name="create">Créer</string>
     <string name="custom_server">Serveur Personnalisé</string>
     <string name="custom_server_created">Serveur Personnalisé Créé</string>
-    <string name="highlight_friends">Mettre en évidence les amis</string>
-    <string name="custom_colors">Photo personnalisée</string>
-    <string name="background_title">Contexte</string>
+    <string name="highlight_friends">Mettre les amis en surbrillance</string>
+    <string name="custom_colors">Couleurs personnalisées</string>
+    <string name="background_title">Fond</string>
     <string name="grid_title">la grille</string>
-    <string name="food_title">Aliments</string>
+    <string name="food_title">Masse</string>
     <string name="virus_title">Virus</string>
     <string name="mother_cell_title">Cellule mère</string>
     <string name="eject_title">Éjecter</string>
     <string name="friend_name_title">Nom de l\'ami</string>
-    <string name="invitation_sent">Je vous invite a rejoindre ce serveur:</string>
+    <string name="invitation_sent">Je vous invite à rejoindre ce serveur:</string>
     <string name="choose_friend">Choisissez un ami</string>
     <string name="notifications">Les notifications</string>
     <string name="join_server">Rejoindre le serveur</string>
-    <string name="friend_request">Je veux etre ton amis!</string>
-    <string name="friend_accepted">Accepte mon invitation!</string>
-    <string name="only_friends_skins">Seulement mes peaux d\'amis</string>
+    <string name="friend_request">Je veux être ton amis!</string>
+    <string name="friend_accepted">Amis accepté!</string>
+    <string name="only_friends_skins">Seulement les apparences d\'amis</string>
     <string name="in_game_zoom">Zoom en jeu</string>
     <string name="copy_nick">Copier le nom d\'utilisateur</string>
     <string name="gold">Or</string>
     <string name="silver">argent</string>
     <string name="bronze">Bronze</string>
-    <string name="medal_description">Médaille de %1$s pour le top %1$s au classement mondial!!</string>
-    <string name="medal_description_first_place">Médaille pour la première place dans le classement mondial!</string>
+    <string name="medal_description">Médaille de %1$s pour avoir atteindre le top %1$s au classement mondial!!</string>
+    <string name="medal_description_first_place">Médaille pour avoir atteindre la première place dans le classement mondial!</string>
 
     <string name="try_for_free">Essayer gratuitement!</string>
     <string name="account">Compte</string>
-    <string name="dialog_vip_desc_title2">Tired from ADS? TRY</string>
-    <string name="no_ads">pas de pubs</string>
-    <string name="dialog_vip_desc_free_hours">heure libre <b>argent</b></string>
-    <string name="dialog_vip_desc_ingame_coins">En jeu <b>argent</b></string>
-    <string name="dialog_vip_desc_additional_exp">Additionnel <b>exp</b></string>
-    <string name="dialog_vip_desc_start_mass">taille de départ</string>
+    <string name="dialog_vip_desc_title2">Fatigué des publicités? Essaye VIP</string>
+    <string name="no_ads">pas de publicité</string>
+    <string name="dialog_vip_desc_free_hours">heure gratuits <b>argent</b></string>
+    <string name="dialog_vip_desc_ingame_coins">En jeu <b>pièces</b></string>
+    <string name="dialog_vip_desc_additional_exp">Additionnel <b>XP</b></string>
+    <string name="dialog_vip_desc_start_mass">Extra masse de départ</string>
     <string name="dialog_vip_desc_discount">réduction sur les boosters</string>
     <string name="dialog_vip_desc_chat_label">étiquette de chat et de profil</string>
-    <string name="dialog_vip_desc_border">Rainbow border</string>
-    <string name="dialog_vip_desc_lock_name">Gold lowered name</string>
+    <string name="dialog_vip_desc_border">Bordure arc en ciel</string>
+    <string name="dialog_vip_desc_lock_name">Nom d'or abaissé</string>
     <string name="side">Côté:</string>
     <string name="bottom">Bas:</string>
 
-    <string name="chat_m_hide_show">Masquer / Afficher</string>
-    <string name="chat_m_expand_collapse">Développer / Réduire</string>
+    <string name="chat_m_hide_show">Masquer/Afficher</string>
+    <string name="chat_m_expand_collapse">Développer/Réduire</string>
     <string name="chat_m_invite_friend">Inviter un ami</string>
-    <string name="chat_m_big_map">Grande cartep</string>
-    <string name="chat_m_suicide">Suicide</string>
+    <string name="chat_m_big_map">Grande carte</string>
+    <string name="chat_m_suicide">Suicider</string>
     <string name="chat_m_select_message">Sélectionnez un message dans le chat!</string>
-    <string name="help">Aidez-moi</string>
+    <string name="help">Aide</string>
     <string name="web_ver_desc">Nous avons une version web pour les joueurs PC!</string>
     <string name="share_request">Vous devez partager le jeu pour déverrouiller cet article!</string>
-    <string name="share_lvl_text">Je viens d\'atteindre le niveau $1%s dans Blob.io! Pouvez-vous me battre maintenant, mon garçon!?</string>
-    <string name="share_double_coins">Partagez votre résultat et obtenez des pièces DOUBLES!</string>
+    <string name="share_lvl_text">Je viens d\'atteindre le niveau $1%s dans Blob.io! Est-ce que tu peux me battre maintenant?!</string>
+    <string name="share_double_coins">Partagez votre résultat et obtenez des pièces DOUBLÉS!</string>
 
-    <string name="guide_text1"><![CDATA[Tu doit mangée de la <b>masse</b> pour grandir]]></string>
-    <string name="guide_text2"><![CDATA[Appuie sur <b>SPLIT<b> pour te diviser et manger les autre joueurs !]]></string>
-    <string name="guide_text3"><![CDATA[Appuie sur <b>THROW</b> pour tirer des virus et nourrir les autre joueurs !]]></string>
+    <string name="guide_text1"><![CDATA[Tu doit mangée de la <b>masse</b> pour grandir!]]></string>
+    <string name="guide_text2"><![CDATA[Appuie sur <b>DIVISER<b> pour se diviser et manger les autre joueurs!]]></string>
+    <string name="guide_text3"><![CDATA[Appuie sur <b>JETER</b> pour tirer des virus ou nourrir les autre joueurs!]]></string>
     <string name="guide_text4"><![CDATA[Reste loing des <b>virus</b>!]]></string>
     <string name="guide_text5">
-        <![CDATA[This game needs <b>strong internet</b>! Sit closer to your Wi-Fi, désactiver <b>BLUETOOTH</b>,
-        mobile internet is not recommended! Use <b><i><font color="#1A0DAB">Blob Server</font></i></b> to play offline!]]>
+        <![CDATA[Ce jeu a besoin <b>d'un Internet puissant!</b> Asseyez-vous près de votre Wi-Fi, désactiver <b>BLUETOOTH.</b>
+        Internet mobile n'est pas recommandé! Utilise <b><i><font color="#1A0DAB">Blob Server</font></i></b> pour jouer hors ligne!]]>
     </string>
     <string name="guide_select_region">Sélectionner la région la plus proche</string>
 
