@@ -270,7 +270,7 @@
 
     <string name="try_for_free">جرب بالمجان</string>
     <string name="account">الحساب</string>
-    <string name="dialog_vip_desc_title2">VIPتعبت من الإعلانات؟ اشتري ال!</string>
+    <string name="dialog_vip_desc_title2">VIP هل تعبت من الإعلانات؟ اشتري</string>
     <string name="no_ads">لا توجد إعلانات</string>
     <string name="dialog_vip_desc_free_hours">نقود مجانية كل ساعة</string>
     <string name="dialog_vip_desc_ingame_coins">نقود في اللعبة</string>
@@ -300,7 +300,7 @@
     <string name="guide_text3"><![CDATA[أطعم <b>الفيروسات</b> لفرقعة اللاعبين و التمكن من أكلهم!]]></string>
     <string name="guide_text4">احذر من الفيروسات!</string>
     <string name="guide_text5">
-        <![CDATA[تحتاج هذه اللعبة <b>لأنترنت قوية.</b>اجلس بالقرب من الانترنت، و تأكد من أن البلوتوث غير شغال.</b>استعمب تطبيق<b><i><font color="#1A0DAB">بلوب سرفر</font></i></b>!للعب بدون أنترنت]]>
+        <![CDATA[تحتاج هذه اللعبة <b>لأنترنت قوية. </b>اجلس بالقرب من الانترنت، و تأكد من أن البلوتوث غير شغال. </b>استعمل تطبيق <b><i><font color="#1A0DAB">بلوب سرفر </font></i></b>للعب بدون أنترنت! ]]>
     </string>
     <string name="guide_select_region">اختر أقرب منطقة</string>
 
