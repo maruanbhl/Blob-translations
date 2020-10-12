@@ -181,7 +181,7 @@
     <string name="searching_ad_video">جاري البحث عن فيديو، المرجو الانتظار</string>
     <string name="processing">جاري المعالجة...</string>
     <string name="free_coins_toast">!مجانية %d لقد حصلت على</string>
-    <string name="quest_coins_toast">You got %d coins!</string>
+    <string name="quest_coins_toast">%d لقد حصلت على</string>
     <string name="free_coins">نقود مجانية</string>
     <string name="watch_video">مشاهدة الفيديو</string>
     <string name="lvl_coins_reward">تهانينا! لقد ربحت %2$s نقود و وصلت المستوى %1$s</string>
@@ -322,7 +322,7 @@
     <string name="q_replace_desc">يمكنك استبدال مهمة كل مرة في اليوم.</string>
     <string name="replace">استبدال</string>
     <string name="q_choose_replace">.اختيار المهام التي تريد استبدالها</string>
-    <string name="q_replace_x">؟ $s استبدال المهمة </string>
+    <string name="q_replace_x">$s استبدال المهمة</string>
     <string name="q_replaced">تم استبدال المهمة!</string>
     <string name="Completed">منجز</string>
     <string name="get_reward">الحصول على مكافأة</string>
